@@ -4,23 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Old Town School of Folk Music",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "coordinates": [
-          -87.68576399999951,
-          41.96450847201268
-        ],
-        "type": "Point"
-      },
-      "id": 1
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "NEIU",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
@@ -128,6 +111,20 @@
         "coordinates": [
           -87.68889667619251,
           41.96861702687886
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Old Town School of Folk Music"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.68569986089796,
+          41.964273855976955
         ],
         "type": "Point"
       },
