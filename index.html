@@ -24,7 +24,7 @@
         var svg = d3.select(map.getPanes().overlayPane).append("svg");
         var g = svg.append("g").attr("class", "leaflet-zoom-hide");
 
-        d3.json("map.geojson", function(collection) {
+        d3.json("pointmakers.geojson", function(collection) {
 
             var featuresdata = collection.features;
         var transform = d3.geo.transform({
