@@ -22,12 +22,12 @@
         }).addTo(map);
 
         var svg = d3.select(map.getPanes().overlayPane).append("svg");
-var g = svg.append("g").attr("class", "leaflet-zoom-hide");
+        var g = svg.append("g").attr("class", "leaflet-zoom-hide");
 
-d3.json("map.geojson", function(collection) {
+        d3.json("map.geojson", function(collection) {
 
-    var featuresdata = collection.features;
-var transform = d3.geo.transform({
+            var featuresdata = collection.features;
+        var transform = d3.geo.transform({
 point: projectPoint
         });
 var d3path = d3.geo.path().projection(transform);
