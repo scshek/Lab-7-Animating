@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Old Town School of Folk Music",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.68576399999951,
+          41.96450847201268
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NEIU",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.71828816337468,
+          41.97968853280349
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Turn Left"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.71601309878271,
+          41.97750428092303
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Turn Right"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.7087576460644,
+          41.97756995475919
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Turn Left"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.70847460128067,
+          41.96846841685448
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "keep Going"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.70357920379759,
+          41.968474326637846
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Keep Going"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.69938140515113,
+          41.96853351824197
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Keep Going"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.69624602755357,
+          41.96856652990604
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Keep Going"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.68889667619251,
+          41.96861702687886
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    }
+  ]
+}
